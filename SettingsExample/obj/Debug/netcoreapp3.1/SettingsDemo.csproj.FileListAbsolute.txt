@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\SettingsDemo\bin\Debug\netcoreapp3.1\SettingsDemo.exe
+D:\VisualStudioProjects\SettingsDemo\obj\Debug\netcoreapp3.1\SettingsDemo.csprojAssemblyReference.cache
+D:\VisualStudioProjects\SettingsDemo\obj\Debug\netcoreapp3.1\SettingsDemo.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\SettingsDemo\obj\Debug\netcoreapp3.1\SettingsDemo.AssemblyInfo.cs
+D:\VisualStudioProjects\SettingsDemo\bin\Debug\netcoreapp3.1\SettingsDemo.deps.json
+D:\VisualStudioProjects\SettingsDemo\bin\Debug\netcoreapp3.1\SettingsDemo.runtimeconfig.json
+D:\VisualStudioProjects\SettingsDemo\bin\Debug\netcoreapp3.1\SettingsDemo.runtimeconfig.dev.json
+D:\VisualStudioProjects\SettingsDemo\bin\Debug\netcoreapp3.1\SettingsDemo.dll
+D:\VisualStudioProjects\SettingsDemo\bin\Debug\netcoreapp3.1\SettingsDemo.pdb
+D:\VisualStudioProjects\SettingsDemo\bin\Debug\netcoreapp3.1\INIFileParser.dll
+D:\VisualStudioProjects\SettingsDemo\obj\Debug\netcoreapp3.1\SettingsDemo.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\SettingsDemo\obj\Debug\netcoreapp3.1\SettingsDemo.csproj.CopyComplete
+D:\VisualStudioProjects\SettingsDemo\obj\Debug\netcoreapp3.1\SettingsDemo.dll
+D:\VisualStudioProjects\SettingsDemo\obj\Debug\netcoreapp3.1\SettingsDemo.pdb
+D:\VisualStudioProjects\SettingsDemo\obj\Debug\netcoreapp3.1\SettingsDemo.genruntimeconfig.cache
